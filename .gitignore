@@ -4,3 +4,4 @@ downloads
 parts
 var
 .installed.cfg
+mongodb
